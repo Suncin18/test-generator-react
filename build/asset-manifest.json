@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-generator-react/build/static/css/main.f3b4e542.css",
+    "main.js": "/text-generator-react/build/static/js/main.aa3d9393.js",
+    "index.html": "/text-generator-react/build/index.html",
+    "main.f3b4e542.css.map": "/text-generator-react/build/static/css/main.f3b4e542.css.map",
+    "main.aa3d9393.js.map": "/text-generator-react/build/static/js/main.aa3d9393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b4e542.css",
+    "static/js/main.aa3d9393.js"
+  ]
+}
